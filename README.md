@@ -5,4 +5,4 @@
 ## Results:
 ![movies_query](/Resources/movies_query.png)
 
-!][ratings_query](/Resources/ratings_query.png)
+![ratings_query](/Resources/ratings_query.png)
